@@ -1,0 +1,1 @@
+Deploy some containers using jenkins pipeline and remove those images that are stored in the host and also move it to s3 bucket and remove files that are created 7days before and also remove files more than average size
